@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Video Call</string>
+
+    <!-- PLEASE KEEP THIS App ID IN SAFE PLACE -->
+    <!-- Get your own App ID at https://dashboard.agora.io/ -->
+    <!-- After you entered the App ID, remove <##> outside of Your App ID -->
+    <string name="agora_app_id">f95f3b10efab43829d7f142d15f3eea8</string>
+    <string name="agora_access_token">006f95f3b10efab43829d7f142d15f3eea8IACHjEdwGMdsWR8dOheHsUmI6nD6pBKpWumeefE0mkclTwx+f9gAAAAAEADwRtPAuqamXgEAAQC4pqZe</string>
+
+</resources>
